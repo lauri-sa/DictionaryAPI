@@ -15,7 +15,9 @@ The project demonstrates basic Express.js server functionality, file handling, a
 
 **Clone the repository:** `git clone https://github.com/yourusername/REST1.git`
 
-**Navigate to the project directory and install dependencies:** `npm install`
+**Navigate to the project directory:** `cd REST1`
+
+**install dependencies:** `npm install`
 
 **Start the server:** `node index.js`
 
