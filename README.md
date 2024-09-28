@@ -13,9 +13,9 @@ The project demonstrates basic Express.js server functionality, file handling, a
 
 ## Installation
 
-**Clone the repository:** `git clone https://github.com/yourusername/REST1.git`
+**Clone the repository:** `git clone https://github.com/yourusername/DictionaryAPI.git`
 
-**Navigate to the project directory:** `cd REST1`
+**Navigate to the project directory:** `cd DictionaryAPI`
 
 **install dependencies:** `npm install`
 
