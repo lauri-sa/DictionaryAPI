@@ -13,7 +13,7 @@ The project demonstrates basic Express.js server functionality, file handling, a
 
 ## Installation
 
-**Clone the repository:** `git clone https://github.com/yourusername/DictionaryAPI.git`
+**Clone the repository:** `git clone https://github.com/lauri-sa/DictionaryAPI.git`
 
 **Navigate to the project directory:** `cd DictionaryAPI`
 
